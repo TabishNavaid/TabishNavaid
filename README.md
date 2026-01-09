@@ -53,7 +53,7 @@ My work sits at the intersection of **technical rigor**, **design clarity**, and
 - Android Studio  
 - CMS (Monsido, Wrike)  
 - MySQL, phpMyAdmin  
-- Canva (visual + content workflows)
+- Canva, Figma (visual + content workflows)
 
 ### **Core Areas**
 - Front-End Development & UI/UX  
@@ -152,7 +152,7 @@ Focused on English education, writing confidence, and community learning during 
 ---
 
 ## 🌐 Portfolio & Links
-- 🌐 Portfolio: **https://YOUR_USERNAME.github.io/**
+- 🌐 Portfolio: **https://tabishnavaid.github.io/**
 - 💼 LinkedIn: https://linkedin.com/in/tabish-navaid  
 - 📧 Email: tabishnavaid06@gmail.com  
 
@@ -167,10 +167,7 @@ Focused on English education, writing confidence, and community learning during 
 ## 🧩 Fun notes
 - I like building things that feel *human*, not just technically correct  
 - Big fan of clean UI, motion, and thoughtful systems  
-- Badminton + late-night debugging = balance  
 
 <p align="center">✦ ✦ ✦</p>
 
 ⭐ *Always open to research, collaboration, and building things that matter.*
-
-> Replace `YOUR_USERNAME` with your actual GitHub username (in links + stats).
