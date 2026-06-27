@@ -1,173 +1,178 @@
-# 👋 Hi, I’m **Tabish Navaid**
+```md
+# Tabish Navaid
 
-🚀 Computer Science & Mathematics undergraduate at **Whitman College**  
-🌍 **UWC Davis Scholar** (Full Scholarship)  
-🧠 Interested in **human-centered computing, accessibility, educational technology, and systems thinking**
+Computer Science and Mathematics undergraduate at Whitman College, building across software engineering, accessibility, front-end development, and human-centered systems.
 
-I build software that cares about **people** as much as it cares about correctness.  
-My work sits at the intersection of **technical rigor**, **design clarity**, and **social impact**.
+I like working on tools that are technically solid, visually clear, and useful beyond the demo. My projects usually sit somewhere between engineering, design, education, and public-facing technology.
 
----
+## About
 
-<p align="center">✦ ✦ ✦</p>
+- Computer Science and Mathematics student at Whitman College
+- UWC Davis Scholar
+- Interested in software engineering, accessibility, human-computer interaction, educational technology, and civic technology
+- Experience with front-end development, full-stack systems, database-backed applications, and accessibility remediation
+- I care about building software that is clean under the hood and thoughtful on the surface
 
-## 🧭 What I care about
-- Designing **accessible, intuitive systems** that lower barriers
-- Translating **complex ideas** (math, CS, systems) into usable tools
-- Exploring how **education, technology, and equity** intersect
-- Building things that feel *thoughtful*, not just functional
+## Technical Skills
 
----
+### Languages
 
-## 🎓 Education
-**Whitman College**, Walla Walla, WA  
-**B.A. in Computer Science & Mathematics**  
-📈 GPA: **4.0**  
-📅 Aug 2024 – May 2028  
+Java, Python, C++, JavaScript, HTML, CSS, SQL/MySQL, C#
 
-🎓 **United World College (UWC)**  
-🏅 **Shelby Davis Foundation Scholar** — full scholarship
+### Frameworks, Libraries, and Platforms
 
----
+React, Supabase, Firebase, .NET, Leaflet.js, OpenStreetMap, GeoJSON
 
-## 🏆 Awards & Recognition
-- 🥇 **Whitman College Hackathon — 1st Place (2025)**  
-  Designed a technology-driven campus platform, selected among 10+ teams.  
-  The project is currently moving toward **institutional deployment**.
+### Tools
 
----
+Git, GitHub, Linux, AWS, Docker, Kubernetes, CircleCI, NetBeans, Android Studio, CMS, Monsido
 
-## 🛠️ Technical Toolkit
+### Areas
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Software Engineering, Front-End Development, Accessibility, UI/UX, Database Design, Object-Oriented Programming, Systems Thinking
 
-### **Tools & Platforms**
-- Git & GitHub  
-- Supabase  
-- Android Studio  
-- CMS (Monsido, Wrike)  
-- MySQL, phpMyAdmin  
-- Canva, Figma (visual + content workflows)
+## Experience
 
-### **Core Areas**
-- Front-End Development & UI/UX  
-- Accessibility Auditing & Inclusive Design  
-- Object-Oriented Programming  
-- Database Design  
-- Systems Thinking  
+### Software Developer Intern  
+**Movate**  
+June 2025 – August 2025
 
----
+- Engineered a role-based permission system with separate admin, manager, and end-user access
+- Built a production-ready dashboard adopted by the team as a core operational tool
+- Led scoping sessions with cross-functional stakeholders in a remote environment
+- Converted undefined requirements into documented architecture and a phased delivery plan
 
-<p align="center">✦ ✦ ✦</p>
+### Front-End Web and Accessibility Developer  
+**Whitman College**  
+January 2025 – Present
 
-## 💼 Technical & Campus Experience
+- Refactored layouts across 1000+ pages, improving accessibility from 70% to 99.6%
+- Built feature pages from editorial briefs using HTML/CSS components inside the college CMS
+- Created a pre-launch QA and accessibility workflow across 95+ CMS pages
+- Used WCAG remediation, layout regression checks, and HTML/CSS debugging to prevent production issues before release
 
-### 🌐 **Communications Web Assistant** — *Whitman College*  
-📅 Jan 2025 – Present  
-- Improved institutional website accessibility from **~70% to 90%+** using Monsido audits and manual remediation  
-- Edited, refactored, and maintained **500+ CMS pages**, improving SEO, mobile responsiveness, and content clarity  
-- Built and launched custom story pages and feature layouts  
-- Supported a major website refactor and migration (100+ pages)  
-- Collaborated cross-functionally to ensure **brand consistency, usability, and accessibility**
+### Peer Tutor / Teaching Assistant  
+**Whitman College**  
+January 2025 – Present
 
----
+- Tutor students in Data Structures, Discrete Mathematics, Computer Science, and technical problem-solving
+- Develop reusable explanation frameworks and visual walkthroughs for difficult concepts
+- Help students build stronger independent problem-solving habits
 
-### 📚 **Student Library Assistant** — *Penrose Library, Whitman College*  
-📅 Sep 2025 – Present  
-- Provide inclusive front-desk support to students, faculty, and community members  
-- Manage circulation systems (check-ins, check-outs, renewals, holds)  
-- Organize materials using **Library of Congress Classification**  
-- Assist with research tools, digital catalogs, and citation methods  
+## Projects
 
----
+### Personal Website
 
-### 🧑‍🏫 **ARC Peer Tutor** — *Whitman College*  
-📅 Feb 2025 – Present  
-- Tutor students in **Computer Science, Mathematics, Writing, and technical skills**  
-- Break down complex concepts into accessible explanations  
-- Support independent problem-solving and academic confidence  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Live Site:** [tabishnavaid.github.io](https://portfolio-delta-two-qj00aw6oxd.vercel.app/)
 
----
+A custom portfolio website designed and built from scratch.
 
-### 🏢 **Student Trainee (Intern)** — *Movate*  
-📅 Jun 2025 – Aug 2025  
-- Completed structured industry training focused on client-centered technology  
-- Applied project planning, documentation, and stakeholder alignment  
-- Developed a personalized project concept aligned with organizational impact goals  
+- Built an interactive personal site with draggable windows, custom popups, day/night mode, sound interactions, and original illustrations
+- Designed the site to feel personal and memorable while staying responsive, readable, and accessible
+- Implemented theme switching, animated character states, and interactive UI behavior using vanilla JavaScript
+- Focused on making the site feel human without making the interface confusing
 
----
+### Aakritam
 
-## 🏛️ Leadership & Service
+**Tech Stack:** Web Development, Front-End Engineering, Design
 
-### 🏛️ **ASWC Senator** — Communications Committee  
-📅 Sep 2025 – Present  
-- Contribute to student government communications and branding strategy  
-- Maintain and restructure ASWC’s website  
-- Implemented updates that increased **digital engagement by 150%**  
-- Apply accessibility and front-end best practices to ensure inclusive communication  
+A design-focused web project built around visual identity, clarity, and accessible front-end structure.
 
----
+- Worked on creating a polished and coherent web presence with attention to layout, visual hierarchy, and usability
+- Focused on building a clean user experience that feels intentional rather than template-driven
+- Applied front-end development and design thinking to structure content in a clear and engaging way
 
-### 💻 **Secretary** — Association for Computing Machinery (ACM)  
-📅 Aug 2025 – Present  
-- Organize meetings, maintain records, and manage communications  
-- Support initiatives that promote technical growth and inclusion  
+### Interactive Downtown Walla Walla Map
 
----
+**Tech Stack:** HTML, CSS, JavaScript, Leaflet.js, OpenStreetMap, Overpass API, GeoJSON
 
-### 💰 **Treasurer** — Whitman South Asian Student Association  
-📅 Aug 2025 – Present  
-- Manage budgets exceeding **$3,000**  
-- Oversee funding allocation for cultural programs and campus events  
+A civic mapping platform built in partnership with the Downtown Walla Walla Foundation and Whitman College Economics Department.
 
----
+- Built an interactive map to support downtown vacancy tracking and local business development
+- Designed a modular Leaflet.js system using layered GeoJSON location data
+- Laid groundwork for hover-based vacancy details including rent, square footage, and availability
 
-### 🌱 **Founder & Coordinator** — Pratiksha Club  
-📍 Mahindra UWC, India  
-📅 Apr 2023 – Apr 2024  
-- Founded a student-led initiative providing conversational English education  
-- Designed curriculum using storytelling and interactive methods  
-- Recruited and trained peer educators to build a sustainable model  
+### SOS: Save Our Souls
 
----
+**Tech Stack:** HTML, CSS, JavaScript, Supabase
 
-### 🤝 Volunteer Work
-- **Volunteer Educator**, Vardhishnu NGO (India)  
-- **Volunteer Staff**, Raah Foundation (Delhi)  
-Focused on English education, writing confidence, and community learning during COVID-19.
+A gamified lost-and-found platform built during the Whitman College Hackathon.
 
----
+- Won 1st place among 10+ teams
+- Shipped a working product in under 12 hours
+- Integrated Supabase authentication and real-time item storage
+- Built an accessible front-end from scratch
 
-## 🌍 Languages
-- English — Fluent  
-- Hindi / Urdu — Native  
-- German — Conversational  
+### Restaurant Management App
 
----
+**Tech Stack:** Java, MySQL, JDBC, MVC Architecture, NetBeans, Git, JUnit
 
-## 🌐 Portfolio & Links
-- 🌐 Portfolio: **https://tabishnavaid.github.io/**
-- 💼 LinkedIn: https://linkedin.com/in/tabish-navaid  
-- 📧 Email: tabishnavaid06@gmail.com  
+A database-backed ordering and management platform.
 
----
+- Built role-based accounts, menu CRUD, and order tracking using OOP and MVC architecture
+- Connected Java application logic to MySQL through JDBC
+- Validated core functionality with JUnit tests across critical user flows
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## Leadership
 
----
+### Secretary  
+**Association for Computing Machinery, Whitman College**
 
-## 🧩 Fun notes
-- I like building things that feel *human*, not just technically correct  
-- Big fan of clean UI, motion, and thoughtful systems  
+- Support 40+ members through workshops, meetings, hackathons, and technical programming
+- Co-designed the Whitman Tech Accelerator, a proposed applied software engineering program connecting student teams with alumni-led industry projects
 
-<p align="center">✦ ✦ ✦</p>
+### Senator  
+**Associated Students of Whitman College**
 
-⭐ *Always open to research, collaboration, and building things that matter.*
+- Audited and redesigned ASWC’s web presence
+- Restructured 15+ pages into a clearer, more accessible information architecture
+- Helped drive a 150% increase in student digital engagement across a student body of 1200+
+
+### Treasurer  
+**Whitman South Asian Student Association**
+
+- Manage a $3,000+ annual budget across cultural programs and campus events
+- Built an expense-tracking dashboard for planning and accountability
+
+## Service
+
+### Founder and Coordinator  
+**Pratiksha Club, Mahindra United World College**
+
+- Founded a student-led initiative providing conversational English education to underserved children
+- Designed curriculum using storytelling, visuals, and interactive activities
+- Recruited and trained peer educators to build a sustainable teaching model
+
+### Volunteer Educator  
+**Vardhishnu NGO and Raah Foundation**
+
+- Supported English education, writing confidence, and community learning initiatives in India
+- Helped design lessons and activities for middle-school students and first-generation learners
+
+## Languages
+
+- English: Fluent
+- Hindi / Urdu: Native
+- German: Conversational
+
+## Links
+
+- Portfolio: [https://portfolio-delta-two-qj00aw6oxd.vercel.app/](https://portfolio-delta-two-qj00aw6oxd.vercel.app/)
+- LinkedIn: [linkedin.com/in/tabish-navaid](https://linkedin.com/in/tabish-navaid)
+- Email: [tabishnavaid06@gmail.com](mailto:tabishnavaid06@gmail.com)
+
+## GitHub Stats
+
+![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabishnavaid&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishnavaid&layout=compact)
+
+## Currently Interested In
+
+- Accessibility-first web development
+- Human-centered software design
+- Educational technology
+- Civic technology
+- Systems that make complex information easier to use
+```
