@@ -38,9 +38,9 @@ Also [Bloom](https://github.com/TabishNavaid/bloom), a to-do app shaped like a g
 
 ## Stack
 
-**Languages** TypeScript, JavaScript, Python, C#, SQL, GDScript
-**Web** React, Node, Supabase, Postgres, Tailwind, Leaflet, Web Audio
-**Games** Godot
+**Languages** TypeScript, JavaScript, Python, C#, SQL, GDScript<br>
+**Web** React, Node, Supabase, Postgres, Tailwind, Leaflet, Web Audio<br>
+**Games** Godot<br>
 **Tools** Git, Docker, Linux, AWS, Vercel, Cloudflare, axe
 
 ## Elsewhere
@@ -49,6 +49,6 @@ Also [Bloom](https://github.com/TabishNavaid/bloom), a to-do app shaped like a g
 
 <br>
 
-<img src="assets/stats.svg" width="420" alt="GitHub contribution summary">
+<!-- stats card goes here once the Actions workflow is running -->
 
 <sub>Banner and avatar composed by me from <a href="https://shubibubi.itch.io/">shubibubi's</a> Cozy Farm and Character v.2 packs.</sub>
