@@ -17,7 +17,7 @@ jobs:
         uses: cicirello/user-statistician@v1
         with:
           image-file: assets/stats.svg
-          colors: "0d1a1c,2c4547,ffcf87,f4ece0,a9c4bd"
+          colors: dark-dimmed
           include-title: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
