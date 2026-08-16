@@ -13,15 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: cicirello/user-statistician@v1
+      - name: Generate the stats image
+        uses: cicirello/user-statistician@v1
         with:
           image-file: assets/stats.svg
           colors: dark-dimmed
           include-title: false
-          hide-keys: private
-      - run: |
-          git config user.name  "TabishNavaid"
-          git config user.email "tabishnavaid06@gmail.com"
-          git add assets/stats.svg
-          git commit -m "Refresh stats card" || exit 0
-          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
