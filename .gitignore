@@ -1,0 +1,6 @@
+art/
+*.zip
+CLAUDE.md
+.claude/
+__pycache__/
+.DS_Store
