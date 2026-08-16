@@ -1,5 +1,6 @@
 <!--
   github.com/TabishNavaid  ->  renders on the profile page.
+  Fill AAKRITAM_URL, MAP_URL and PONDHOPPER_URL before pushing.
 -->
 
 <img src="assets/banner.gif" width="816" alt="Pixel art scene at dusk: a cottage with lit windows, a lamppost, and the text Tabish Navaid, CS and math at Whitman, full-stack and product">
@@ -22,33 +23,43 @@ CS and math at Whitman College, class of 2028. I build web apps and small games.
 A lofi generator that runs in your browser. Fourteen style packs, seeded output, WAV export. No server, no samples.
 </td>
 <td width="33%" valign="top">
-<a href="https://www.aakritam.com/"><img src="assets/aakritam.png" alt="Aakritam storefront homepage"></a>
-<b><a href="https://www.aakritam.com/">Aakritam</a></b><br>
+<a href="AAKRITAM_URL"><img src="assets/aakritam.png" alt="Aakritam storefront homepage"></a>
+<b><a href="AAKRITAM_URL">Aakritam</a></b><br>
 A storefront I built for a fair-trade marketplace. 320+ artisans, five product categories, live and taking orders.
 </td>
 <td width="33%" valign="top">
-<a href="https://tabishnavaid.github.io/walla-walla-map/"><img src="assets/walla-walla-map.png" alt="Interactive map of downtown Walla Walla with vacancy markers"></a>
-<b><a href="https://tabishnavaid.github.io/walla-walla-map/">Downtown Vacancy Map</a></b><br>
+<a href="MAP_URL"><img src="assets/walla-walla-map.png" alt="Interactive map of downtown Walla Walla with vacancy markers"></a>
+<b><a href="MAP_URL">Downtown Vacancy Map</a></b><br>
 Built with the Downtown Walla Walla Foundation and Whitman's economics department. Leaflet, GeoJSON, Overpass.
 </td>
 </tr>
 </table>
 
-Also [Bloom](https://github.com/TabishNavaid/bloom), a to-do app shaped like a garden. [SOS](https://github.com/TabishNavaid/SOS---Save-Our-Souls), a lost-and-found app that won the Walla Walla hackathon out of ten teams. We built it in twelve hours.
+Also [Bloom](https://github.com/TabishNavaid/bloom), a to-do app shaped like a garden. [Pond Hopper](PONDHOPPER_URL), a browser game with ghost replays and a daily challenge. [SOS](https://github.com/TabishNavaid/SOS---Save-Our-Souls), a lost-and-found app that won the Walla Walla hackathon out of ten teams. We built it in twelve hours.
 
 ## Stack
+
+<table>
+<tr>
+<td width="52%" valign="top">
 
 **Languages** TypeScript, JavaScript, Python, C#, SQL, GDScript<br>
 **Web** React, Node, Supabase, Postgres, Tailwind, Leaflet, Web Audio<br>
 **Games** Godot<br>
 **Tools** Git, Docker, Linux, AWS, Vercel, Cloudflare, axe
 
-## Elsewhere
+**Elsewhere**<br>
+[tabishnavaid.dev](https://tabishnavaid.dev)<br>
+[hello@tabishnavaid.dev](mailto:hello@tabishnavaid.dev)<br>
+[LinkedIn](https://www.linkedin.com/in/tabish-navaid/)
 
-[tabishnavaid.dev](https://tabishnavaid.dev) &nbsp;&middot;&nbsp; [hello@tabishnavaid.dev](mailto:hello@tabishnavaid.dev) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/tabish-navaid/)
+</td>
+<td width="48%" valign="top">
+<img src="assets/stats.svg" width="100%" alt="GitHub contribution summary">
+</td>
+</tr>
+</table>
 
-<br>
-
-<!-- stats card goes here once the Actions workflow is running -->
+<img src="assets/footer.gif" width="816" alt="Pixel art strip of the same meadow at dusk, with a character walking through it">
 
 <sub>Banner and avatar composed by me from <a href="https://shubibubi.itch.io/">shubibubi's</a> Cozy Farm and Character v.2 packs.</sub>
